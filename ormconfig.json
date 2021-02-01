@@ -1,0 +1,17 @@
+{
+  "type": "postgres",
+  "host": "ziggy.db.elephantsql.com",
+  "port": 5432,
+  "username": "eeanziuw",
+  "password": "QP4dZpeuBDa2XBDNOoDzICwh5CO9lI-f",
+  "database": "eeanziuw",
+  "entities": [
+     "src/app/models/*.ts"
+  ],
+  "migrations": [
+     "src/database/migrations/*.ts"
+  ],
+  "cli": {
+    "migrationsDir":  "src/database/migrations"
+  }
+}
