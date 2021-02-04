@@ -1,4 +1,4 @@
-![techs](https://res.cloudinary.com/dqqrsraas/image/upload/v1612209786/Group_1_1_i3r3o6.svg)
+![techs](https://res.cloudinary.com/dqqrsraas/image/upload/v1612413313/jwt_f7xdo2.svg)
 
 <h1>typeorm-jwt</h1>
 <p>This repo contains a project with an authentication system using:</p>
