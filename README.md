@@ -1,7 +1,7 @@
 ![techs](https://res.cloudinary.com/dqqrsraas/image/upload/v1612413313/jwt_f7xdo2.svg)
 
 <h1>typeorm-jwt</h1>
-<p>This repo contains a project with an authentication system using:</p>
+<p>This repo contains a project in Node.js with an authentication system using:</p>
 
 * [Expressjs](https://expressjs.com/): A framework for web applications in Nodejs.
 * [TypeORM](https://typeorm.io/): An ORM for Nodejs applications, with support for Typescript and Javascript.
